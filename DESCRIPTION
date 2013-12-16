@@ -1,0 +1,9 @@
+Package: stagnation
+Type: Package
+Title: Calculate Air Stagnation Index
+Version: 0.1
+Date: 2013-12-16
+Author: Giovanni Bonafe'
+Maintainer: G.Bonafe' <midable@gmail.com>
+Description: Calculate Air Stagnation Index
+License: GPL-2
